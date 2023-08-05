@@ -1,6 +1,6 @@
 # Supply_Chain
 
-Introduction : Supply chain management (SCM) is the centralized management of the flow of goods and services and includes all processes that transform raw materials into final products.Management of supply chain includes storage capacities,facilities,location of warehouse and so on.
+Introduction : Supply chain management (SCM) is the centralized management of the flow of goods and services and includes all processes that transform raw materials into final products. Management of supply chain includes storage capacities,facilities,location of warehouse and so on.
 Current project aims at reducing the mismatch between supply and demand of a 'Noodles Company'.
 
 Dataset : There are 20 features in the dataset(live data) and to get an in-depth intuition about these features market research Phase is recommended.
